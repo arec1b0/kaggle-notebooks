@@ -41,7 +41,7 @@ Production-ready GPU inference notebook with H100 optimizations for mathematical
 ### 4. playground-series-diabetis.ipynb
 **Competition**: Playground Series - Diabetes Prediction
 
-Machine learning approach for predicting diabetes using tabular data.
+A machine learning approach for predicting diabetes using tabular data.
 
 ### 5. road-accident-risk.ipynb
 **Competition**: Playground Series Season 5 Episode 10
