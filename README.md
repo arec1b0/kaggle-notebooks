@@ -132,7 +132,7 @@ This project is open source and available for educational purposes.
 
 **arec1b0**
 - GitHub: [@arec1b0](https://github.com/arec1b0)
-- Kaggle: [Profile](https://www.kaggle.com/arec1b0)
+- Kaggle: [@daniilkrizhanovskyi](https://www.kaggle.com/daniilkrizhanovskyi)
 
 ---
 
